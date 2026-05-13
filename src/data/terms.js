@@ -32,4 +32,5 @@ export const terms = [
   { term: "GG", definition: "Good Game, ou bom jogo, é uma expressão usada para parabenizar alguém por uma boa performance ou para encerrar uma interação de forma amigável, mesmo que tenha sido um fracasso.", category: "Social" },
   { term: "F", definition: "Falha, algo que deu errado ou um fracasso. Associado também a alguém que morreu.", category: "Social" },
   { term: "MVP", definition: "Most Valuable Player, ou jogador mais valioso, é um título dado a alguém que se destaca em uma situação ou grupo, sendo considerado o melhor ou mais importante.", category: "Social" },
+  { term: "POV", definition: "Point of View, ou ponto de vista, é uma expressão usada para indicar a perspectiva de alguém em relação a uma situação ou assunto.", category: "Social" },
 ];

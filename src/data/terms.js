@@ -33,4 +33,6 @@ export const terms = [
   { term: "F", definition: "Falha, algo que deu errado ou um fracasso. Associado também a alguém que morreu.", category: "Social" },
   { term: "MVP", definition: "Most Valuable Player, ou jogador mais valioso, é um título dado a alguém que se destaca em uma situação ou grupo, sendo considerado o melhor ou mais importante.", category: "Social" },
   { term: "POV", definition: "Point of View, ou ponto de vista, é uma expressão usada para indicar a perspectiva de alguém em relação a uma situação ou assunto.", category: "Social" },
+  { term: "Aesthetic", definition: "É a identidade visual ou a vibe estética de alguma coisa.", category: "Social"},
+  { term: "67/six-seven", definition: "É uma expressão usada como piada absurda, interrupção aleatória ou comentário sem sentido aparente. O efeito da gíria está justamente nisso: parecer que existe uma referência muito específica ali, mesmo quando o uso é mais sobre repetir o meme do que comunicar uma ideia exata.", category: "Brainrot"},
 ];

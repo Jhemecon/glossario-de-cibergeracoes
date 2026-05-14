@@ -51,6 +51,7 @@ function App() {
               setIsSearching(false);
             }}
             onKeyDown={handleKeyDown}
+            aria-label="Campo de busca para termos, definições ou categorias"
             className="w-full px-6 py-3 rounded-lg bg-slate-800 border border-slate-700 focus:border-cyan-500 focus:outline-none text-slate-100 placeholder-slate-500 transition-all duration-300"
           />
           {searchTerm && (
@@ -66,18 +67,26 @@ function App() {
 
       <main className="max-w-5xl mx-auto">
         {filteredTerms.length > 0 ? (
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {filteredTerms.map((item, index) => (
-              <TermCard 
-                key={index} 
-                term={item.term} 
-                definition={item.definition} 
-                category={item.category} 
-              />
-            ))}
-          </div>
+          <>
+            <div className="text-center mb-8">
+              <p className="text-slate-400 text-lg">
+                {filteredTerms.length} de {terms.length} termos
+              </p>
+            </div>
+            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              {filteredTerms.map((item) => (
+                <TermCard 
+                  key={item.term} 
+                  term={item.term} 
+                  definition={item.definition} 
+                  category={item.category} 
+                />
+              ))}
+            </div>
+          </>
         ) : (
           <div className="text-center py-16">
+            <div className="text-6xl mb-4">🔍</div>
             <p className="text-slate-400 text-xl">
               Nenhum termo encontrado para "<span className="text-cyan-400">{searchTerm}</span>"
             </p>

@@ -20,7 +20,7 @@ O glossário conta com **36 verbetes em inglês**, cada um com:
 
 > Você **não precisa instalar nada** para ver o projeto. Basta abrir o link abaixo no seu navegador (Chrome, Firefox, Edge, etc.):
 
-### 👉 [Clique aqui para acessar o Glossário](https://glossario-geracional.vercel.app)
+### 👉 [Clique aqui para acessar o Glossário](https://glossario-de-cibergeracoes.onrender.com/)
 
 *(O projeto está hospedado gratuitamente na internet e funciona em qualquer dispositivo — computador, celular ou tablet.)*
 

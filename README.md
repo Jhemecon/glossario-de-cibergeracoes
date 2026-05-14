@@ -1,7 +1,7 @@
 # 📖 Glossário das Cibergerações
 
 > **Projeto Acadêmico — Inglês Instrumental**
-> Turma: [nome da turma] | Alunos: Jhemeson, Júlio e Carlos
+> Turma: CCP03 | Alunos: Jhemeson, Júlio e Carlos
 
 ---
 
@@ -123,10 +123,10 @@ glossario-geracional/
 
 ## 📎 Justificativa da Escolha do Tema
 
-O vocabulário digital em inglês representa um dos fenômenos linguísticos mais dinâmicos da atualidade. Termos como *ghosting*, *FOMO*, *rizz* e *NPC* nasceram em inglês e foram incorporados ao português falado pelos jovens sem tradução — tornando-se um campo linguístico próprio e relevante para o estudo do inglês no contexto contemporâneo.
+O vocabulário digital em inglês representa um dos fenômenos linguísticos mais dinâmicos da atualidade. Termos como *Ghosting*, *FOMO*, *rizz* e *NPC* nasceram em inglês e foram incorporados ao português falado pelos jovens sem tradução — tornando-se um campo linguístico próprio e relevante para o estudo do inglês no contexto contemporâneo.
 
 Este glossário busca documentar, explicar e organizar esse vocabulário, contribuindo para a compreensão intercultural e para o desenvolvimento da competência leitora em inglês dos falantes de português.
 
 ---
 
-*Projeto desenvolvido para a disciplina de Inglês Instrumental — [Instituição] — [Semestre/Ano]*
+*Projeto desenvolvido para a disciplina de Inglês Instrumental — CIESA — 2026.1*
